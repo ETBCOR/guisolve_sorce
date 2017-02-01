@@ -1,0 +1,11 @@
+Summary for /www/javadecompilers/app/public/data/01.02.17/550c40c0de48a22851fcf635ac2645a6/GUISOLVER.jar
+Decompiled with CFR 0_118
+
+
+org.kociemba.twophase.Search
+----------------------------
+
+solution(java.lang.String int long boolean )
+  Unable to fully structure code
+totalDepth(int int )
+  Unable to fully structure code
